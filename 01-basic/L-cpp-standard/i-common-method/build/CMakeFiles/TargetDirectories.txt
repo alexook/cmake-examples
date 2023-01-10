@@ -1,0 +1,3 @@
+/home/ubuntu/cmake-examples/01-basic/L-cpp-standard/i-common-method/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake-examples/01-basic/L-cpp-standard/i-common-method/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake-examples/01-basic/L-cpp-standard/i-common-method/build/CMakeFiles/hello_cpp11.dir

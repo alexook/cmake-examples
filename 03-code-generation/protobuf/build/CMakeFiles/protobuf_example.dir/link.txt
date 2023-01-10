@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/protobuf_example.dir/main.cpp.o CMakeFiles/protobuf_example.dir/AddressBook.pb.cc.o  -o protobuf_example  /usr/lib/x86_64-linux-gnu/libprotobuf.so -lpthread 

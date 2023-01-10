@@ -1,0 +1,10 @@
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/sublibrary1.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/sublibrary2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/sublibrary2/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/subbinary/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/subbinary/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake-examples/02-sub-projects/A-basic/build/subbinary/CMakeFiles/subbinary.dir
